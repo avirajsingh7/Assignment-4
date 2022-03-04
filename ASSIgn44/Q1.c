@@ -32,4 +32,4 @@ int main()
         printf("%d>", *(ptr+i));
     }
     return 0;
-}
+}//This is not write code Donot copy it
